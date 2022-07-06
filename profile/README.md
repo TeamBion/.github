@@ -2,7 +2,7 @@
 
 
 <h1><b>Trusted <span style="color:orange">DevOps Partner</span> that ticks all the boxes</b></h1>
-<img src="./img/profile.png"></img>
+<img src="img/profile.png"></img>
 
 Bion is an <span style="color:orange">engineering-led</span> fully <span style="color:orange">hands-on</span> Cloud and DevOps consultancy that can quickly help you move things forward in <span style="color:orange">your roadmap.</span>
 
